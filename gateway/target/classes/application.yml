@@ -79,4 +79,4 @@ spring:
             allowCredentials: true
 
 server:
-  port: 80800
+  port: 8080
